@@ -1,0 +1,12 @@
+A12345 Joseph P. Allen, Jr.
+A23456 Brenda Gomez
+A34567 Stephanie McGraw
+
+987 CS 424 Programming Languages
+123 CS 490 Operating Systems
+456 CS 317 Algorithms
+
+A12345 987
+A34567 123
+A23456 456
+A12345 123
